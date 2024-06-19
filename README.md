@@ -18,6 +18,10 @@ Successfull Build of Docker Image (Without MultiStage) :
 
 Size of the Docker Image without Multi-Stage (Around 660 MB) :
 
+```
+docker images
+```
+
 ![image](https://github.com/vighas-ks-16/Multi-Stage-Docker-Builds/assets/107311113/3f937b26-177b-4bd1-841b-a2ade8de52cd)
 
 
