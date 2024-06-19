@@ -69,7 +69,7 @@ docker build -t simplecalculator-multistage .
 ![image](https://github.com/vighas-ks-16/Multi-Stage-Docker-Builds/assets/107311113/0d66dea9-cb81-4ba2-b392-e70b31e910bf)
 
 
-Size of the Docker Image built using Multi-Stage Docker Builds (Around 1.96 MB) :
+### Size of the Docker Image built using Multi-Stage Docker Builds (Around 1.96 MB) :
 
 ```
 docker images
