@@ -1,6 +1,6 @@
 # Multi-Stage-Docker-Builds
 Docker Image Optimization of the Golang-based Calculator Application using Multi Stage Docker Builds
-
+ 
 ### Docker file without Multi-Stage :
 
 ![image](https://github.com/vighas-ks-16/Multi-Stage-Docker-Builds/assets/107311113/08d8203e-5d35-4b30-b9a5-e7a00b8cde92)
